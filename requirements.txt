@@ -1,0 +1,5 @@
+qiskit>=1.2
+qiskit-aer
+scipy
+matplotlib
+streamlit>=1.50

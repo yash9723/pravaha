@@ -1,0 +1,28 @@
+[theme]
+base = "light"
+primaryColor = "#1c5cab"
+backgroundColor = "#f7f6f2"
+secondaryBackgroundColor = "#eeede7"
+textColor = "#1b1b19"
+linkColor = "#1c5cab"
+borderColor = "#e1e0d9"
+dataframeBorderColor = "#e8e7e1"
+dataframeHeaderBackgroundColor = "#f3f2ed"
+showWidgetBorder = true
+baseRadius = "0.6rem"
+buttonRadius = "0.5rem"
+baseFontSize = 15
+font = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@300..700&display=swap"
+headingFont = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@300..700&display=swap"
+codeFont = "Geist Mono:https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400..600&display=swap"
+headingFontWeights = [650, 600, 600, 600, 600, 600]
+metricValueFontSize = "1.75rem"
+metricValueFontWeight = 600
+# Reference categorical palette, fixed order (validated for colour-vision deficiency).
+chartCategoricalColors = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#e87ba4", "#008300", "#4a3aa7", "#e34948"]
+
+[browser]
+gatherUsageStats = false
+
+[server]
+address = "127.0.0.1"  # local planning tool: don't listen on the LAN or the internet

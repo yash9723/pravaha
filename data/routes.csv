@@ -1,0 +1,16 @@
+route_id,name,stops
+NH16-N,Vijayawada - Srikakulam,Vijayawada|Eluru|Rajahmundry|Anakapalli|Visakhapatnam|Vizianagaram|Srikakulam
+NH16-S,Vijayawada - Tirupati,Vijayawada|Guntur|Ongole|Nellore|Tirupati
+VJA-MTM,Vijayawada - Machilipatnam,Vijayawada|Gudivada|Machilipatnam
+VJA-BVRM,Vijayawada - Bhimavaram,Vijayawada|Gudivada|Bhimavaram
+VJA-KNL,Vijayawada - Kurnool,Vijayawada|Guntur|Narasaraopet|Markapur|Nandyal|Kurnool
+VJA-TNL,Vijayawada - Tenali,Vijayawada|Tenali
+AMR-GNT,Amaravati - Guntur,Vijayawada|Amaravati|Guntur
+GNT-TNL,Guntur - Tenali,Guntur|Tenali
+RJY-KKD,Rajahmundry - Kakinada,Rajahmundry|Kakinada
+KKD-VSKP,Kakinada - Visakhapatnam,Kakinada|Anakapalli|Visakhapatnam
+TPT-KNL,Tirupati - Kurnool,Tirupati|Kadapa|Kurnool
+TPT-CTR,Tirupati - Chittoor,Tirupati|Chittoor
+NLR-ATP,Nellore - Anantapur,Nellore|Kadapa|Anantapur
+KNL-HUP,Kurnool - Hindupur,Kurnool|Anantapur|Hindupur
+ONG-MKP,Ongole - Markapur,Ongole|Markapur
